@@ -12,4 +12,4 @@ All development effort is currently put on v2.0, and earlier versions are not ma
 ## Reporting a Vulnerability
 
 Please contact me via [Pull Request](https://github.com/fcathala/backup101/pulls) to report any vulnerability.
-Once reviewed and accepted I will take action to fix the code and take down the repository while I'm doing this.
+Once reviewed and accepted, I will take action to temporarly take down the repository and fix the code.
