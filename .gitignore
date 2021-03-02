@@ -1,9 +1,0 @@
-# Shared objects
-*.dll
-
-# Executables
-*.exe
-*.com
-
-# Windows
-Desktop.ini
