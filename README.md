@@ -1,6 +1,6 @@
 # backup101
 
-*Easy versioned backup of your working directories - Fabrice Cathala - 28 December 2013*
+*Easy versioned backup of your working directories - Fabrice Cathala*
 
 ---
 
@@ -18,3 +18,6 @@ Create backup as subfolders of "backup101.cmd" current folder. Working directory
 Clean-up prior to the introduction of v2.0.
 * v2.0
 Each backup will be stored as sibling folder of working directory which is meant to store "backup101.cmd".
+
+The security policy is explained [here](https://github.com/fcathala/backup101/blob/main/SECURITY.md).
+You can find more details about this project [here](https://backup101.uk/).
