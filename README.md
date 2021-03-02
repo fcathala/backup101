@@ -5,7 +5,7 @@
 ---
 
 **Use Case**
-Create multiple versions of a folder and sub-folders (#batch #bat #cmd).
+Create multiple versions of a folder and sub-folders.
 Snapshot backup of your working directory with versioning.
 
 **History**
