@@ -1,6 +1,6 @@
 Set Debug=Off
 Echo %Debug%
-Rem =============================================================
+Rem ===========================================================
 Rem backup101: Ultra simple backup utility
 Rem
 Rem Snapshot backup utility enabling a number max of 999 different
@@ -15,13 +15,13 @@ Rem
 Rem © Fabrice Cathala - March 2009
 Rem	Version: 2.0
 Rem
-Rem =============================================================
+Rem ===========================================================
 
 Cls
 Echo.
-Echo --------------------------------------------------------
+Echo ----------------------------------------------------------
 Echo  backup101:  Ultra simple backup utility
-Echo --------------------------------------------------------
+Echo ----------------------------------------------------------
 Echo.
 
 Rem Calculates Max value (last backup)
@@ -56,9 +56,9 @@ Rem Shift backup folders
 
 		If "%Debug%" NEQ "ON" Goto StartShift  
 		Echo.
-		Echo --------------------------------------------------------
+		Echo ----------------------------------------------------------
 		Echo  Move backup.%Source% to backup.%Target%
-		Echo --------------------------------------------------------
+		Echo ----------------------------------------------------------
 		Echo.
 
 	:StartShift
