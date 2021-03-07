@@ -9,7 +9,8 @@ Create multiple versions of a folder and sub-folders.
 Snapshot backup of your working directory with versioning.
 
 **History**
-*Current Version*
+| *Current Version* |
+| -------------------- |
 | v2.0 (07 March 2021) |
 | Code refactoring |
 | Each backup folder is now stored as child folder of the backup subfolder in the working directory. |
