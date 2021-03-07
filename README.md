@@ -1,6 +1,6 @@
 # backup101
 
-*Easy versioned backup of your working directories - Fabrice Cathala*
+*Ultra simple backup utility - Fabrice Cathala*
 
 ---
 
@@ -10,14 +10,13 @@ Snapshot backup of your working directory with versioning.
 
 **History**
 *Current Version*
-* v1.1
-Create backup as subfolders of "backup101.cmd" current folder. Working directory must be named "backup101" then previous version is named "backup102", the one before "backup103", etc...
+* v2.0 (07/03/2021)
+- Code refactoring
+- Each backup folders are now stored as child folder of the working directory.
 
 *Roadmap*
-* v1.2
-Clean-up prior to the introduction of v2.0.
-* v2.0
-Each backup will be stored as sibling folder of working directory which is meant to store "backup101.cmd".
+* v2.1
+- Fix bugs typically notified via [PR](https://github.com/fcathala/backup101/pulls).
 
 The security policy is explained [here](https://github.com/fcathala/backup101/blob/main/SECURITY.md).
 You can find more details about this project [here](https://backup101.uk/).
