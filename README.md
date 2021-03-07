@@ -1,6 +1,6 @@
 # backup101
 
-*Ultra simple backup utility - Fabrice Cathala*
+*Ultra simple backup utility - Fabrice Cathala 🐸*
 
 ---
 
